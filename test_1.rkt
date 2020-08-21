@@ -5,4 +5,6 @@
 ;G's circle
 (circle 30 'solid 'red)
 
+(star 20 'outline 'purple)
+
 
